@@ -1,4 +1,3 @@
-# workshops
+# WorkshopPLUS - Microsoft Power Platform for Administrators
 
-<h1>WorkshopPLUS - Microsoft Power Platform for Administrators</h1>
-
+***
