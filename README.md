@@ -1,7 +1,7 @@
 # Workshops
 
 ## Activate - Microsoft Teams
-[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](http://google.com){:target="_blank"}
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](http://google.com)
 ![PowerPoint icon](https://github.com/timmayo/workshops/blob/main/powerpoint.png)
 
 
