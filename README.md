@@ -1,8 +1,11 @@
 # Workshops
 
 ## Activate - Microsoft Teams
-![Datasheet icon](https://github.com/timmayo/workshops/blob/main/datasheet.png)
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](http://google.com)
 ![PowerPoint icon](https://github.com/timmayo/workshops/blob/main/powerpoint.png)
+
+
+
 
 ## Activate - Modern SharePoint
 ![Datasheet icon](https://github.com/timmayo/workshops/blob/main/datasheet.png)
