@@ -2,6 +2,7 @@
 
 ## Activate - Microsoft Teams
 ![Datasheet icon](https://github.com/timmayo/workshops/blob/main/datasheet.png)
+![PowerPoint icon](https://github.com/timmayo/workshops/blob/main/powerpoint.png)
 
 ## Activate - Modern SharePoint
 ![Datasheet icon](https://github.com/timmayo/workshops/blob/main/datasheet.png)
