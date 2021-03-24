@@ -17,3 +17,6 @@
 ## WorkshopPLUS - Office 365 SharePoint Online: Power Apps and Flow for Administrators
 
 ***
+## WorkshopPLUS - Microsoft Power Automate: Power User
+
+***
