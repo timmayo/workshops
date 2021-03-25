@@ -4,6 +4,8 @@ Twitter: https://twitter.com/timmayo
 LinkedIn: https://www.linkedin.com/in/mayotim  
 
 # Microsoft Workshops
+### [Power Platform: AI Builder](https://github.com/timmayo/workshops/blob/main/README.md#activate---power-platform-ai-builder)
+
 
 ## Activate - Power Platform: AI Builder
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](http://google.com)
