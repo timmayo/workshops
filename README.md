@@ -1,4 +1,9 @@
-# Workshops
+# Contact info
+Email: timmayo@microsoft.com  
+Twitter: https://twitter.com/timmayo    
+LinkedIn: https://www.linkedin.com/in/mayotim  
+
+# Microsoft Workshops
 
 ## Activate - Power Platform: AI Builder
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](http://google.com)
