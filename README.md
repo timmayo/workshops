@@ -11,15 +11,20 @@ LinkedIn: https://www.linkedin.com/in/mayotim
 
 
 ## WorkshopPLUS - Microsoft Power Platform for Administrators 1 Day
-![Datasheet icon](https://github.com/timmayo/workshops/blob/main/datasheet.png)
+> Learn how to manage, secure and monitor Power Platform (Power Apps and Power Automate) in your organization. This training is targeted at Power Platform
+administrators and developers, that are having foundations of Microsoft Power Platform (Power Apps and Power Automate) and need to learn how to secure, manage and control the platform.
+  
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Power-Platform-for-Administrators-1-day.pdf)
 
 ## WorkshopPLUS - Microsoft Power Platform for Administrators 3 Days
-![Datasheet icon](https://github.com/timmayo/workshops/blob/main/datasheet.png)
-
-
+> Learn how to manage, secure and monitor Power Platform (Power Apps and Power Automate) in your organization and gain experience through hands on exercise. This training is targeted at Power Platform administrators and developers, that are having foundations of Microsoft Power Platform (Power Apps and Power Automate) and need to learn how to secure, manage and control the platform.
+  
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf)
 
 ## WorkshopPLUS - SharePoint Developer
-![Datasheet icon](https://github.com/timmayo/workshops/blob/main/datasheet.png)
+> The SharePoint Developer Workshop introduces students to the development tools, patterns, practices, concepts, and frameworks necessary to create SharePoint customizations in hybrid, on-prem, and Office 365 SharePoint platforms. This advanced course is targeted at IT pros who have experience with SharePoint Development frameworks, and development tools such as Visual Studio, and Visual Studio Code.
+  
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-SharePont-Developer.pdf)
 
 
 
