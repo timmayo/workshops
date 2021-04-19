@@ -17,7 +17,7 @@ administrators and developers, that are having foundations of Microsoft Power Pl
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Power-Platform-for-Administrators-1-day.pdf)
 
 ## WorkshopPLUS - Microsoft Power Platform for Administrators 3 Days
-> Learn how to manage, secure and monitor Power Platform (Power Apps and Power Automate) in your organization and gain experience through hands on exercise. This training is targeted at Power Platform administrators and developers, that are having foundations of Microsoft Power Platform (Power Apps and Power Automate) and need to learn how to secure, manage and control the platform.
+> Learn how to manage, secure and monitor Power Platform (Power Apps and Power Automate) in your organization and gain experience through hands on exercises. This training is targeted at Power Platform administrators and developers, that are having foundations of Microsoft Power Platform (Power Apps and Power Automate) and need to learn how to secure, manage and control the platform.
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf)
 
