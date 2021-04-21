@@ -9,6 +9,10 @@ LinkedIn: https://www.linkedin.com/in/mayotim
    
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/Activate-Modern-SharePoint.pdf)
 
+## WorkshopPLUS - Microsoft Power Automate: Power User 1 Day with Lab
+> Targets End users and Business developers, that are new Power Automate. It begins with an introduction to Flow Studio. and covers the most commonly used triggers and actions. The training is focused on hands on, with a short introduction to each topic that is followed by instructor led practical exercises.
+
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Power-Automate-Power-User-1-Day.pdf)
 
 ## WorkshopPLUS - Microsoft Power Platform for Administrators 1 Day
 > Learn how to manage, secure and monitor Power Platform (Power Apps and Power Automate) in your organization. This training is targeted at Power Platform
