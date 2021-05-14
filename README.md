@@ -4,6 +4,11 @@ Twitter: https://twitter.com/timmayo
 LinkedIn: https://www.linkedin.com/in/mayotim  
 
 # Microsoft Workshops
+## Activate - Microsoft Graph for O365
+> Activate Microsoft Graph API introduces an organization to the basics of accessing O365/M365 data via the Microsoft Graph API. This delivery provides your IT staff and support engineers knowledge to successfully leverage the Microsoft Graph API within a tenant to access and manipulate data. This two day engagement begins with an education session to enhance your team’s technical and development skills while driving operational readiness. The offering also includes an onboarding session with a Microsoft engineer, who works with your team to create a process to implement management of an O365/M365 tenant.
+   
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/Activate-Microsoft-Graph-for-O365.pdf)
+
 ## Activate - Modern SharePoint
 > Jump-start your intranet team with necessary skills and knowledge to build a corporate intranet where employees can gain insights and information to connect with the company. Build a proof-of-concept intranet portal using SharePoint Online. Start your journey in working with content, branding, search, navigation and incorporating best practices for ease of use.
    
