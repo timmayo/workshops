@@ -44,10 +44,16 @@ This Workshop contains level 200 - 300 content. Review the Target Audience infor
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-SharePoint-Online-Administration-and-Configuration.pdf)
 
+## WorkshopPLUS - Office 365: SharePoint Online Troubleshooting
+The Office 365: SharePoint Online Troubleshooting Workshop is a two-day course that teaches you how to troubleshoot Microsoft Office 365 SharePoint Online.Each module is organized by scenario and is designed to provide students with expertise, tools, and hands-on experience to understand and work with specific SharePoint Online services and SharePoint Online client workloads.
+  
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-SharePoint-Online-Troubleshooting.pdf)
+
 ## WorkshopPLUS - SharePoint Developer
 The SharePoint Developer Workshop introduces students to the development tools, patterns, practices, concepts, and frameworks necessary to create SharePoint customizations in hybrid, on-prem, and Office 365 SharePoint platforms. This advanced course is targeted at IT pros who have experience with SharePoint Development frameworks, and development tools such as Visual Studio, and Visual Studio Code.
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-SharePoint-Developer.pdf)
+
 
 
 
