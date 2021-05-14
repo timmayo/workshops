@@ -44,6 +44,11 @@ This Workshop contains level 200 - 300 content. Review the Target Audience infor
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-SharePoint-Online-Administration-and-Configuration.pdf)
 
+## WorkshopPLUS - Office 365: SharePoint Online: Power User
+Learn how to leverage SharePoint Online to support collaboration for your organization’s Business Units. The course establishes fundamentals of collaboration emphasizing best practices for securely storing business data and building business solutions and processes around that data. The course builds on those fundamentals to help users understand the value and use cases for advanced features, services and configurations that can benefit teams and projects. The course also covers management and administrative responsibilities for Site Owners.
+  
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-SharePoint-Online-Power-User.pdf)
+
 ## WorkshopPLUS - Office 365: SharePoint Online Troubleshooting
 The Office 365: SharePoint Online Troubleshooting Workshop is a two-day course that teaches you how to troubleshoot Microsoft Office 365 SharePoint Online.Each module is organized by scenario and is designed to provide students with expertise, tools, and hands-on experience to understand and work with specific SharePoint Online services and SharePoint Online client workloads.
   
