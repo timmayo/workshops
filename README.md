@@ -44,7 +44,7 @@ This Workshop contains level 200 - 300 content. Review the Target Audience infor
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-SharePoint-Online-Administration-and-Configuration.pdf)
 
-## WorkshopPLUS - Office 365: SharePoint Online: Power User
+## WorkshopPLUS - Office 365 SharePoint Online: Power User
 Learn how to leverage SharePoint Online to support collaboration for your organization’s Business Units. The course establishes fundamentals of collaboration emphasizing best practices for securely storing business data and building business solutions and processes around that data. The course builds on those fundamentals to help users understand the value and use cases for advanced features, services and configurations that can benefit teams and projects. The course also covers management and administrative responsibilities for Site Owners.
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-SharePoint-Online-Power-User.pdf)
