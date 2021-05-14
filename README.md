@@ -30,6 +30,11 @@ Learn how to manage, secure and monitor Power Platform (Power Apps and Power Aut
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf)
 
+## WorkshopPLUS - Office 365: Groups Administration
+Gain a deep knowledge and understanding of its connection with specific workloads, how to Deploy, Govern and Manage Office 365 Groups. Office 365 Groups for customers experienced with managing onpremises technologies is very challenging as many of the workloads are connected and enabled in their tenant by default with self-service creation access for all users.Office 365 Groups is one of the foundational pieces of the Office 365 collaboration toolkit that ties together SharePoint, Exchange, Teams, Planner, PowerBI, etc. A group is created with a shared inbox for conversations, a shared calendar, a place to take notes with OneNote, Planner to manage tasks, and the option to connect to the hub for teamwork in Microsoft Teams.
+  
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-Groups-Administration.pdf)
+
 ## WorkshopPLUS - Office 365 SharePoint Online: Administration and Configuration
 The Office 365 SharePoint Online: Administration and Configuration Workshop is a three day course that teaches you how to manage and support Microsoft Office 365 SharePoint Online. The key areas of focus include:
 + Office 365 and SharePoint Online features, and platform capabilities
