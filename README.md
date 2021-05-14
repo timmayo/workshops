@@ -30,6 +30,15 @@ administrators and developers, that are having foundations of Microsoft Power Pl
   
 [![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf)
 
+## WorkshopPLUS - Office 365 SharePoint Online: Administration and Configuration
+> The Office 365 SharePoint Online: Administration and Configuration Workshop is a three day course that teaches you how to manage and support Microsoft Office 365 SharePoint Online. The key areas of focus include:
++ Office 365 and SharePoint Online features, and platform capabilities
++ Office 365 SharePoint Online multi tenant offering
+
+This Workshop contains level 200 - 300 content. Review the Target Audience information and contact your Microsoft. Each group of modules is organized by scenario and is designed to provide students with expertise, tools, and hands on experience to understand and work with specific SharePoint Online services, and SharePoint Online client workloads.
+  
+[![alt text](https://github.com/timmayo/workshops/blob/main/datasheet.png)](https://github.com/timmayo/workshops/blob/main/WorkshopPLUS-Office-365-SharePoint-Online-Administration-and-Configuration.pdf)
+
 ## WorkshopPLUS - SharePoint Developer
 > The SharePoint Developer Workshop introduces students to the development tools, patterns, practices, concepts, and frameworks necessary to create SharePoint customizations in hybrid, on-prem, and Office 365 SharePoint platforms. This advanced course is targeted at IT pros who have experience with SharePoint Development frameworks, and development tools such as Visual Studio, and Visual Studio Code.
   
